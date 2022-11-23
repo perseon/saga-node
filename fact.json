@@ -1,0 +1,204 @@
+{
+	"_declaration": {
+		"_attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8"
+		}
+	},
+	"Facturi": {
+		"Factura": {
+			"Antet": {
+				"FurnizorNume": {},
+				"FurnizorCIF": {
+					"_text": "RO46854893"
+				},
+				"FurnizorNrRegCom": {},
+				"FurnizorCapital": {},
+				"FurnizorTara": {},
+				"FurnizorLocalitate": {},
+				"FurnizorJudet": {},
+				"FurnizorAdresa": {},
+				"FurnizorTelefon": {},
+				"FurnizorMail": {},
+				"FurnizorBanca": {},
+				"FurnizorIBAN": {},
+				"FurnizorGrupa": {
+					"_text": "100"
+				},
+				"FurnizorInformatiiSuplimentare": {},
+				"GUID_cod_client": {},
+				"ClientNume": {
+					"_text": "CONECT BUSINESS PARK SA"
+				},
+				"ClientInformatiiSuplimentare": {
+					"_text": "Client"
+				},
+				"ClientCIF": {
+					"_text": "RO116"
+				},
+				"ClientNrRegCom": {
+					"_text": "J40/996/1991"
+				},
+				"ClientJudet": {
+					"_text": "B"
+				},
+				"ClientLocalitate": {
+					"_text": "BUCURESTI SECTOR 2"
+				},
+				"ClientTara": {
+					"_text": "RO"
+				},
+				"ClientAdresa": {
+					"_text": "BUCURESTI SECTOR 2, B-DUL DIMITRIE POMPEI, NR.10A"
+				},
+				"ClientTelefon": {
+					"_text": "0213172828"
+				},
+				"ClientEmail": {},
+				"ClientBanca": {},
+				"ClientIBAN": {},
+				"ClientGrupa": {
+					"_text": "100.01"
+				},
+				"FacturaNumar": {
+					"_text": "1"
+				},
+				"FacturaData": {
+					"_text": "02.01.2022"
+				},
+				"FacturaScadenta": {
+					"_text": "30.01.2022"
+				},
+				"FacturaTaxareInversa": {
+					"_text": "Nu"
+				},
+				"FacturaTVAIncasare": {
+					"_text": "Nu"
+				},
+				"FacturaEFactura": {
+					"_text": "Da"
+				},
+				"FacturaTip": {},
+				"FacturaInformatiiSuplimentare": {},
+				"FacturaMoneda": {
+					"_text": "RON"
+				},
+				"FacturaCotaTVA": {
+					"_text": "TVA (19%)"
+				},
+				"FacturaGreutate": {
+					"_text": "0.000"
+				},
+				"FacturaAccize": {
+					"_text": "0.00"
+				},
+				"Cod": {}
+			},
+			"Detalii": {
+				"Continut": {
+					"Linie": [{
+						"LinieNrCrt": {
+							"_text": "1"
+						},
+						"Gestiune": {},
+						"Activitate": {},
+						"Descriere": {
+							"_text": "SERVICII CATEG 1"
+						},
+						"CodArticolFurnizor": {},
+						"CodArticolClient": {},
+						"CodBare": {},
+						"InformatiiSuplimentare": {
+							"_text": "diverse info suplimentare"
+						},
+						"UM": {
+							"_text": "BUC"
+						},
+						"Cantitate": {
+							"_text": "1.000"
+						},
+						"Pret": {
+							"_text": "100.0000"
+						},
+						"Valoare": {
+							"_text": "100.00"
+						},
+						"ProcTVA": {
+							"_text": "19"
+						},
+						"TVA": {
+							"_text": "19.00"
+						},
+						"Cont": {
+							"_text": "704"
+						},
+						"TipDeducere": {},
+						"PretVanzare": {}
+					}, {
+						"LinieNrCrt": {
+							"_text": "2"
+						},
+						"Descriere": {
+							"_text": "SERVICII CATEG 2"
+						},
+						"CodArticolFurnizor": {},
+						"CodArticolClient": {},
+						"CodBare": {},
+						"InformatiiSuplimentare": {
+							"_text": "servicii tip 2"
+						},
+						"UM": {
+							"_text": "BUC"
+						},
+						"Cantitate": {
+							"_text": "1.000"
+						},
+						"Pret": {
+							"_text": "200.0000"
+						},
+						"Valoare": {
+							"_text": "200.00"
+						},
+						"ProcTVA": {
+							"_text": "19"
+						},
+						"TVA": {
+							"_text": "38.00"
+						},
+						"Cont": {
+							"_text": "708"
+						}
+					}]
+				},
+				"txtObservatii1": {
+					"_text": "Info supl1"
+				}
+			},
+			"Sumar": {
+				"TotalValoare": {
+					"_text": "300.00"
+				},
+				"TotalTVA": {
+					"_text": "57.00"
+				},
+				"Total": {
+					"_text": "357.00"
+				},
+				"LinkPlata": {}
+			},
+			"Observatii": {
+				"txtObservatii": {},
+				"SoldClient": {
+					"_text": "In evidentele noastre, la data 20.11.2022, soldul este 0.00 RON"
+				},
+				"ModalitatePlata": {
+					"_text": "Incasat cu numerar  nr.: 1 / 20.11.2022  suma: 357.00;"
+				}
+			},
+			"FacturaID": {
+				"_text": "ABC123"
+			},
+			"GUID_factura": {}
+		}
+	}
+}
