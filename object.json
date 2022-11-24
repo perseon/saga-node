@@ -1,0 +1,86 @@
+{
+    "Facturi": {
+        "Factura": {
+            "Antet": {
+                "FurnizorNume": "",
+                "FurnizorCIF": {},
+                "FurnizorNrRegCom": {},
+                "FurnizorCapital": {},
+                "FurnizorTara": {},
+                "FurnizorLocalitate": {},
+                "FurnizorJudet": {},
+                "FurnizorAdresa": {},
+                "FurnizorTelefon": {},
+                "FurnizorMail": {},
+                "FurnizorBanca": {},
+                "FurnizorIBAN": {},
+                "FurnizorGrupa": {},
+                "FurnizorInformatiiSuplimentare": {},
+                "GUID_cod_client": {},
+                "ClientNume": {},
+                "ClientInformatiiSuplimentare": {},
+                "ClientCIF": {},
+                "ClientNrRegCom": {},
+                "ClientJudet": {},
+                "ClientLocalitate": {},
+                "ClientTara": {},
+                "ClientAdresa": {},
+                "ClientTelefon": {},
+                "ClientEmail": {},
+                "ClientBanca": {},
+                "ClientIBAN": {},
+                "ClientGrupa": {},
+                "FacturaNumar": {},
+                "FacturaData": {},
+                "FacturaScadenta": {},
+                "FacturaTaxareInversa": {},
+                "FacturaTVAIncasare": {},
+                "FacturaEFactura": {},
+                "FacturaTip": {},
+                "FacturaInformatiiSuplimentare": {},
+                "FacturaMoneda": {},
+                "FacturaCotaTVA": {},
+                "FacturaGreutate": {},
+                "FacturaAccize": {},
+                "Cod": {}
+            },
+            "Detalii": {
+                "Continut": {
+                    "Linie": {
+                        "LinieNrCrt": {},
+                        "Gestiune": {},
+                        "Activitate": {},
+                        "Descriere": {},
+                        "CodArticolFurnizor": {},
+                        "CodArticolClient": {},
+                        "CodBare": {},
+                        "InformatiiSuplimentare": {},
+                        "UM": {},
+                        "Cantitate": {},
+                        "Pret": {},
+                        "Valoare": {},
+                        "ProcTVA": {},
+                        "TVA": {},
+                        "Cont": {},
+                        "TipDeducere": {},
+                        "PretVanzare": {}
+                    }
+                },
+                "txtObservatii1": {}
+            },
+            "Sumar": {
+                "TotalValoare": {},
+                "TotalTVA": {},
+                "Total": {},
+                "LinkPlata": {}
+            },
+            "Observatii": {
+                "txtObservatii": {},
+                "SoldClient": {},
+                "ModalitatePlata": {}
+            },
+            "FacturaID": {},
+            "GUID_factura": {}
+        }
+    }
+}

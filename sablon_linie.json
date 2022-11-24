@@ -1,0 +1,21 @@
+{
+    "Linie": {
+        "LinieNrCrt": {},
+        "Gestiune": {},
+        "Activitate": {},
+        "Descriere": {},
+        "CodArticolFurnizor": {},
+        "CodArticolClient": {},
+        "CodBare": {},
+        "InformatiiSuplimentare": {},
+        "UM": {},
+        "Cantitate": {},
+        "Pret": {},
+        "Valoare": {},
+        "ProcTVA": {},
+        "TVA": {},
+        "Cont": {},
+        "TipDeducere": {},
+        "PretVanzare": {}
+    }
+}

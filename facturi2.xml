@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Facturi>
+    <Factura>
+        <Antet>
+            <FurnizorNume/>
+            <FurnizorCIF>RO46854893</FurnizorCIF>
+            <FurnizorNrRegCom/>
+            <FurnizorCapital/>
+            <FurnizorTara/>
+            <FurnizorLocalitate/>
+            <FurnizorJudet/>
+            <FurnizorAdresa/>
+            <FurnizorTelefon/>
+            <FurnizorMail/>
+            <FurnizorBanca/>
+            <FurnizorIBAN/>
+            <FurnizorGrupa>100</FurnizorGrupa>
+            <FurnizorInformatiiSuplimentare/>
+            <GUID_cod_client/>
+            <ClientNume>CONECT BUSINESS PARK SA</ClientNume>
+            <ClientInformatiiSuplimentare>Client</ClientInformatiiSuplimentare>
+            <ClientCIF>RO116</ClientCIF>
+            <ClientNrRegCom>J40/996/1991</ClientNrRegCom>
+            <ClientJudet>B</ClientJudet>
+            <ClientLocalitate>BUCURESTI SECTOR 2</ClientLocalitate>
+            <ClientTara>RO</ClientTara>
+            <ClientAdresa>BUCURESTI SECTOR 2, B-DUL DIMITRIE POMPEI, NR.10A</ClientAdresa>
+            <ClientTelefon>213172828</ClientTelefon>
+            <ClientEmail/>
+            <ClientBanca/>
+            <ClientIBAN/>
+            <ClientGrupa>100.01</ClientGrupa>
+            <FacturaNumar>1</FacturaNumar>
+            <FacturaData>02.01.2022</FacturaData>
+            <FacturaScadenta>30.01.2022</FacturaScadenta>
+            <FacturaTaxareInversa>Nu</FacturaTaxareInversa>
+            <FacturaTVAIncasare>Nu</FacturaTVAIncasare>
+            <FacturaEFactura>Da</FacturaEFactura>
+            <FacturaTip/>
+            <FacturaInformatiiSuplimentare/>
+            <FacturaMoneda>RON</FacturaMoneda>
+            <FacturaCotaTVA>TVA (19%)</FacturaCotaTVA>
+            <FacturaGreutate>0</FacturaGreutate>
+            <FacturaAccize>0</FacturaAccize>
+            <Cod/>
+        </Antet>
+        <Detalii>
+            <Continut>
+                <Linie>
+                    <LinieNrCrt>1</LinieNrCrt>
+                    <Gestiune/>
+                    <Activitate/>
+                    <Descriere>SERVICII CATEG 1</Descriere>
+                    <CodArticolFurnizor/>
+                    <CodArticolClient/>
+                    <CodBare/>
+                    <InformatiiSuplimentare>diverse info suplimentare</InformatiiSuplimentare>
+                    <UM>BUC</UM>
+                    <Cantitate>1</Cantitate>
+                    <Pret>100</Pret>
+                    <Valoare>100</Valoare>
+                    <ProcTVA>19</ProcTVA>
+                    <TVA>19</TVA>
+                    <Cont>704</Cont>
+                    <TipDeducere/>
+                    <PretVanzare/>
+                </Linie>
+                <Linie>
+                    <LinieNrCrt>2</LinieNrCrt>
+                    <Gestiune/>
+                    <Activitate/>
+                    <Descriere>SERVICII CATEG 2</Descriere>
+                    <CodArticolFurnizor/>
+                    <CodArticolClient/>
+                    <CodBare/>
+                    <InformatiiSuplimentare>servicii tip 2</InformatiiSuplimentare>
+                    <UM>BUC</UM>
+                    <Cantitate>1</Cantitate>
+                    <Pret>200</Pret>
+                    <Valoare>200</Valoare>
+                    <ProcTVA>19</ProcTVA>
+                    <TVA>38</TVA>
+                    <Cont>708</Cont>
+                    <TipDeducere/>
+                    <PretVanzare/>
+                </Linie>
+            </Continut>
+            <txtObservatii1>Info supl1</txtObservatii1>
+        </Detalii>
+        <Sumar>
+            <TotalValoare>300</TotalValoare>
+            <TotalTVA>57</TotalTVA>
+            <Total>357</Total>
+            <LinkPlata/>
+        </Sumar>
+        <Observatii>
+            <txtObservatii>1</txtObservatii>
+            <SoldClient>In evidentele noastre, la data 20.11.2022, soldul este 0.00 RON</SoldClient>
+            <ModalitatePlata>Incasat cu numerar  nr.: 1 / 20.11.2022  suma: 357.00;</ModalitatePlata>
+        </Observatii>
+        <FacturaID>ABC123</FacturaID>
+        <GUID_factura/>
+    </Factura>
+    <Factura>
+        <Antet>
+            <FurnizorNume/>
+            <FurnizorCIF>RO46854893</FurnizorCIF>
+            <FurnizorNrRegCom/>
+            <FurnizorCapital/>
+            <FurnizorTara/>
+            <FurnizorLocalitate/>
+            <FurnizorJudet/>
+            <FurnizorAdresa/>
+            <FurnizorTelefon/>
+            <FurnizorMail/>
+            <FurnizorBanca/>
+            <FurnizorIBAN/>
+            <FurnizorGrupa>100</FurnizorGrupa>
+            <FurnizorInformatiiSuplimentare/>
+            <GUID_cod_client/>
+            <ClientNume>CONECT BUSINESS PARK SA</ClientNume>
+            <ClientInformatiiSuplimentare>Client</ClientInformatiiSuplimentare>
+            <ClientCIF>RO116</ClientCIF>
+            <ClientNrRegCom>J40/996/1991</ClientNrRegCom>
+            <ClientJudet>B</ClientJudet>
+            <ClientLocalitate>BUCURESTI SECTOR 2</ClientLocalitate>
+            <ClientTara>RO</ClientTara>
+            <ClientAdresa>BUCURESTI SECTOR 2, B-DUL DIMITRIE POMPEI, NR.10A</ClientAdresa>
+            <ClientTelefon>213172828</ClientTelefon>
+            <ClientEmail/>
+            <ClientBanca/>
+            <ClientIBAN/>
+            <ClientGrupa>100.01</ClientGrupa>
+            <FacturaNumar>2</FacturaNumar>
+            <FacturaData>09.01.2022</FacturaData>
+            <FacturaScadenta>09.02.2022</FacturaScadenta>
+            <FacturaTaxareInversa>Nu</FacturaTaxareInversa>
+            <FacturaTVAIncasare>Nu</FacturaTVAIncasare>
+            <FacturaEFactura>Da</FacturaEFactura>
+            <FacturaTip/>
+            <FacturaInformatiiSuplimentare/>
+            <FacturaMoneda>RON</FacturaMoneda>
+            <FacturaCotaTVA>TVA (9%)</FacturaCotaTVA>
+            <FacturaGreutate>0</FacturaGreutate>
+            <FacturaAccize>0</FacturaAccize>
+            <Cod/>
+        </Antet>
+        <Detalii>
+            <Continut>
+                <Linie>
+                    <LinieNrCrt>1</LinieNrCrt>
+                    <Gestiune/>
+                    <Activitate/>
+                    <Descriere>SERVICII CATEG 1</Descriere>
+                    <CodArticolFurnizor/>
+                    <CodArticolClient/>
+                    <CodBare/>
+                    <InformatiiSuplimentare>diverse info suplimentare</InformatiiSuplimentare>
+                    <UM>BUC</UM>
+                    <Cantitate>1</Cantitate>
+                    <Pret>100</Pret>
+                    <Valoare>100</Valoare>
+                    <ProcTVA>9</ProcTVA>
+                    <TVA>9</TVA>
+                    <Cont>704</Cont>
+                    <TipDeducere/>
+                    <PretVanzare/>
+                </Linie>
+                <Linie>
+                    <LinieNrCrt>2</LinieNrCrt>
+                    <Gestiune/>
+                    <Activitate/>
+                    <Descriere>SERVICII CATEG 3</Descriere>
+                    <CodArticolFurnizor/>
+                    <CodArticolClient/>
+                    <CodBare/>
+                    <InformatiiSuplimentare>servicii tip 3</InformatiiSuplimentare>
+                    <UM>BUC</UM>
+                    <Cantitate>1</Cantitate>
+                    <Pret>200</Pret>
+                    <Valoare>200</Valoare>
+                    <ProcTVA>9</ProcTVA>
+                    <TVA>18</TVA>
+                    <Cont>708</Cont>
+                    <TipDeducere/>
+                    <PretVanzare/>
+                </Linie>
+            </Continut>
+            <txtObservatii1>Info supl1</txtObservatii1>
+        </Detalii>
+        <Sumar>
+            <TotalValoare>300</TotalValoare>
+            <TotalTVA>27</TotalTVA>
+            <Total>327</Total>
+            <LinkPlata/>
+        </Sumar>
+        <Observatii>
+            <txtObservatii>3</txtObservatii>
+            <SoldClient/>
+            <ModalitatePlata/>
+        </Observatii>
+        <FacturaID>ABC1234</FacturaID>
+        <GUID_factura/>
+    </Factura>
+</Facturi>
